@@ -1,1 +1,8 @@
 /* Place CSS styles here */
+body {
+    background-color: rgb(168, 156, 240);
+    color: rgb(78, 49, 82);
+}
+p {
+    font-size: 18px;
+}
