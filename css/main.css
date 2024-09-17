@@ -1,8 +1,25 @@
 /* Place CSS styles here */
 body {
     background-color: rgb(168, 156, 240);
-    color: rgb(78, 49, 82);
+    color: rgb(78, 49, 82); 
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px; 
+    font-weight: 400;
+} 
+
+h1,
+h2,
+h3, 
+h4, 
+h5, 
+h6 {
+    font-family: "Nunito", sans-serif; 
+    font-weight: 800;
 }
 p {
     font-size: 18px;
+} 
+
+.my-footer h1 {
+    font-size: 16px;
 }
