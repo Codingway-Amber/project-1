@@ -46,6 +46,13 @@ p {
     text-align: center;
 } 
 
+.details p {
+    text-align: center;
+}
+
+.explain p {
+    text-align: center;
+}
 
 .my-footer h1 {
     font-size: 16px;
